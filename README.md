@@ -15,7 +15,7 @@ font-family: 'The Jamsil';
 link
 
 ```
-<link rel='stylesheet' href='https://cdn.jsdelivr.net/gh/fonts-archive/TheJamsil/TheJamsil.css'/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/TheJamsil/TheJamsil.css"/>
 ```
 
 &nbsp;
